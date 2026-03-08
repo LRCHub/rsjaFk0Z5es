@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "よもすがら",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-03-08T17:38:26.660533Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よもすがら",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_よもすがら_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
